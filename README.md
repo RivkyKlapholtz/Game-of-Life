@@ -26,4 +26,5 @@ CONWAY'S BASIC LAWS OF GENETICS:
 
 # Demo ▶
 
+![ezgif com-optimize](https://github.com/RivkyKlapholtz/Game-of-Life/assets/129298796/0e227060-ee8d-40d7-a9ac-e71f175c9420)
 
